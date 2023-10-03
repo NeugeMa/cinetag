@@ -1,4 +1,4 @@
-import Cabecalho from "components/Cabecalho/index.js";
+import Cabecalho from "components/Cabecalho/Cabecalho";
 
 function Inicio() {
     return (
