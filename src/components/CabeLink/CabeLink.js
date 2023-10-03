@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import styles from './CabecalhoLink.module.css';
+import styles from './CabeLink.modules.css';
 
 function CabecalhoLink({ url, children }) {
     return (

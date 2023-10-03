@@ -1,7 +1,8 @@
 import { Link } from "react-router-dom";
 import logo from './logo.png';
-import styles from './Cabecalho.module.css';
-import CabeLink from "components/CabeLink/Cabe";
+import styles from './Cabecalho.modules.css';
+import CabeLink from "components/CabeLink/CabeLink";
+
 
 function Cabecalho() {
     return (
