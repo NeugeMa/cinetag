@@ -1,7 +1,9 @@
+import Cabecalho from "components/Cabecalho";
+
 function Inicio() {
     return (
-        <h1> Olá mundo, novamente! Estou em uma nova página agora! </h1>
+        <Cabecalho />
     )
 }
 
-export default Inicio; 
+export default Inicio;
